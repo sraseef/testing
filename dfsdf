@@ -1,0 +1,65 @@
+[1mdiff --git a/1.txt b/1.txt[m
+[1mindex 01b646f..3c3897c 100644[m
+[1m--- a/1.txt[m
+[1m+++ b/1.txt[m
+[36m@@ -3,4 +3,57 @@[m [madded 2nd line after 1st[m
+ added 3rd line after 2[m
+ added 4th line after 3[m
+ added 5th line after 4[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+[32m+[m[32madded 6th line after 5[m
+ added 6th line after 5[m
+\ No newline at end of file[m
+warning: LF will be replaced by CRLF in 1.txt.
+The file will have its original line endings in your working directory.
